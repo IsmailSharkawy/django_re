@@ -1,0 +1,40 @@
+#header {
+  background: #10284e;
+  min-height: 5vh;
+  color: #fff;
+  display: flex;
+}
+
+#branding h1 {
+  color: #fff;
+}
+
+a:link,
+a:visited {
+  color: #fff;
+}
+
+div.breadcrumbs {
+  margin-bottom: 10px;
+  background-color: #30caa0;
+}
+
+div.breadcrumbs a {
+  color: #fff;
+}
+
+caption {
+  background: #30caa0 !important;
+}
+
+a.section:link,
+a.section:visited {
+  color: #10284e;
+}
+
+.button.default,
+input[type="submit"].default,
+.submit-row input {
+  background: #30caa0;
+  color: #fff;
+}
